@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "id": "TXN-CA0883B082AF39D920922F47",
+      "paymentId": "PAY-TUNEVA-9f910cc3427b48a662d8a982",
+      "customerName": "Anita Osueke",
+      "email": "annieberry249@gmail.com",
+      "amount": 5300,
+      "method": "paga",
+      "reference": "tv_1795284331395_91b39677ed",
+      "type": "credit",
+      "status": "successful",
+      "description": "MOVANTRA Paga payment",
+      "createdAt": "2026-11-21T18:09:05.917Z"
+    }
+  ]
+}
