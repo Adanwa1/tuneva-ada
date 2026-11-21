@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-8c9da24a4dd42040aab55712",
+      "fullName": "Mary Jane",
+      "username": "maryjaneb",
+      "email": "anniebe23@gmail.com",
+      "phone": "08052520745",
+      "passwordHash": "17c8e010397d4784c6355ac1de186721:9ea4ed3f949d6a26e531093064b80dcf03cafe24425cd9d5143ea25b39b0c1778a155129d0c678c3b0556f304a95ea02c60eae7ff44ed896450c7bc7713732e3",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-fba7c47795b0042ae92ebae8",
+      "createdAt": "2026-11-21T20:54:06.982Z",
+      "activatedAt": "2026-11-21T20:54:06.982Z"
+    },
+    {
       "id": "USER-2ac76a1a7c1c253fea017627",
       "fullName": "Blessed oke",
       "username": "blessed12",
