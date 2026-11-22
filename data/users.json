@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-e0571e994a4dc25c70db3535",
+      "fullName": "Gift block",
+      "username": "blockice",
+      "email": "annieapex095@gmail.com",
+      "phone": "08052527865",
+      "passwordHash": "48fef8213287d629669af02387e679e3:1ab6664d66ae16f7e1e5bf7eb9861b2d0fb05ee61dd5985bea90de797270f7d2cfa35953109035444781d942751584fdf42f7c55c5020b649334fd3efd5c7a0b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-24ec7ab4ef06fc6d361be0d0",
+      "createdAt": "2026-11-22T21:00:46.913Z",
+      "activatedAt": "2026-11-22T21:00:46.913Z"
+    },
+    {
       "id": "USER-8c9da24a4dd42040aab55712",
       "fullName": "Mary Jane",
       "username": "maryjaneb",
