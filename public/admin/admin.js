@@ -99,7 +99,7 @@
 
     withdrawalStatus.textContent = enabled
       ? "Withdrawals are currently enabled."
-      : "Withdrawals are currently disabled.";
+      : "Withdrawals are currentl disabled.";
   }
 
   function populateSettings(settings) {
