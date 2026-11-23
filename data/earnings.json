@@ -2489,16 +2489,17 @@
       "lastTapAt": 0
     },
     "USER-149953b8b31cd5a60c34f323": {
-      "balance": 4750,
+      "balance": 6500,
       "todayDate": "2026-11-23",
-      "todayEarnings": 4750,
+      "todayEarnings": 6500,
       "tapPoints": 10500,
       "tapCount": 30,
       "tapDailyPoints": 10500,
       "tapDailyEarnings": 3000,
-      "videoEarnings": 1750,
+      "videoEarnings": 3500,
       "claimedVideos": [
-        "bigger-fun"
+        "bigger-fun",
+        "bigger-joyrides"
       ],
       "processedEvents": [
         "c68990d9-d643-471e-b654-4f9360943c3a",
@@ -2531,9 +2532,18 @@
         "a59e4460-6838-4a6b-9ab6-9f9b4bd38cb4",
         "a13974e3-01df-4a0b-a051-56d482696fe0",
         "4024c068-a995-4c52-928d-acfcf7e14beb",
-        "fbb6225f-d5b5-440f-93da-6a0dc2fa7971"
+        "fbb6225f-d5b5-440f-93da-6a0dc2fa7971",
+        "6fdf2c34-ea7f-4157-a2a4-fc34e37cc217"
       ],
       "history": [
+        {
+          "id": "6fdf2c34-ea7f-4157-a2a4-fc34e37cc217",
+          "title": "Video Rewards",
+          "subtitle": "For Bigger Joyrides",
+          "amount": 1750,
+          "date": "2026-11-23T18:55:28.301Z",
+          "currency": "NGN"
+        },
         {
           "id": "fbb6225f-d5b5-440f-93da-6a0dc2fa7971",
           "title": "Video Rewards",
