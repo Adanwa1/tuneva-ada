@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-e0e40c113fb7d63b3d20e455",
+      "fullName": "balogun temilade",
+      "username": "ayomide",
+      "email": "temiladebalogun10@gmail.com",
+      "phone": "09137170895",
+      "passwordHash": "2eade23eb2f960e9d921bfbf85db09e8:37c205d0340db3173710e213539fe545c0c1de88ac4b2851dc2631c28eb95bcc7d429aa59247b19dd4f2c12b7f9d4dac52dd2479620a3d2bacf0a6b4e87a245b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-0faf4ca5fe9d7f987507354f",
+      "createdAt": "2026-11-23T12:50:18.226Z",
+      "activatedAt": "2026-11-23T12:50:18.226Z"
+    },
+    {
       "id": "USER-efa82274bf4a78987d91fe74",
       "fullName": "Kor Agatha",
       "username": "pesh",
