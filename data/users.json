@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-149953b8b31cd5a60c34f323",
+      "fullName": "Ojadi Ogechi Arete",
+      "username": "tochukwu",
+      "email": "forl07208@gmail.com",
+      "phone": "08036195300",
+      "passwordHash": "373db62a00bd9a7745ab27c1c091aaac:efcc11c065aa5b60d5ab4643c71b1b149b79f6d51f4eb2693f6f3846a155de7179f1ec9619c1105ed906443f517d3ab1b0da5b92bea138b84c8cfa874ecca1cb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a0c29caf429f95626dfa5508",
+      "createdAt": "2026-11-23T17:04:07.819Z",
+      "activatedAt": "2026-11-23T17:04:07.819Z"
+    },
+    {
       "id": "USER-3b8727097abeb8044bdbeace",
       "fullName": "Elizabeth suraya",
       "username": "eliza12",
