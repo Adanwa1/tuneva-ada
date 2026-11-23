@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-3b8727097abeb8044bdbeace",
+      "fullName": "Elizabeth suraya",
+      "username": "eliza12",
+      "email": "leesijohnbedum@gmail.com",
+      "phone": "08125976478",
+      "passwordHash": "c3fd8d1f3faa3158580b0d0c82dcddb5:6c9cbdd5b15c835553c3365dc2792d8925d07a48637450d21d137c62f9c00839cf8636c03629046cfe10bf324544cd2dca19865fed3427c761ccf133abee3424",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-dfd0521db2c6f5274ade633f",
+      "createdAt": "2026-11-23T16:38:13.656Z",
+      "activatedAt": "2026-11-23T16:38:13.656Z"
+    },
+    {
       "id": "USER-f4b69a759a73235f583eb995",
       "fullName": "Susan Uchenna",
       "username": "susan22",
