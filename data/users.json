@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-f4b69a759a73235f583eb995",
+      "fullName": "Susan Uchenna",
+      "username": "susan22",
+      "email": "sussanauchenna2@gmail.com",
+      "phone": "09162361694",
+      "passwordHash": "f95158889a7df69333fc794ba3fd86ba:700cce53c395d1947c7c52ba0ff10565b0fb630aeac651da7cf5b7ee1a9608843aa202d374dab6627c69ed2f739d6ab1073ca5adcb9a016c82523912baf0d430",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-220ab820c297fb6c4c077ce5",
+      "createdAt": "2026-11-23T15:24:53.456Z",
+      "activatedAt": "2026-11-23T15:24:53.456Z"
+    },
+    {
       "id": "USER-e0e40c113fb7d63b3d20e455",
       "fullName": "balogun temilade",
       "username": "ayomide",
