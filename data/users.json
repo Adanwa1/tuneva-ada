@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-efa82274bf4a78987d91fe74",
+      "fullName": "Kor Agatha",
+      "username": "pesh",
+      "email": "agathakor83@gmail.com",
+      "phone": "08133054604",
+      "passwordHash": "ec462851b155c2a89afdd20ec8f67b7a:9523673b2da4d8142feddaea0ab2986c09aa44a3d66819729f053aaeabcacf6c992c55a37561f29e50c4cf36e7b659aa819f935c71809eef3e6fc6682e26c548",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-8b14c6983d7b85c71fde86fb",
+      "createdAt": "2026-11-23T12:49:43.845Z",
+      "activatedAt": "2026-11-23T12:49:43.845Z"
+    },
+    {
       "id": "USER-ba03ac90a6e6c9f8c94081b6",
       "fullName": "Joy l",
       "username": "joy",
