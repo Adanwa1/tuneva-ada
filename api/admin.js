@@ -12,7 +12,9 @@ const DEFAULT_SETTINGS = {
   tapReward: 100,
   dailyTapLimit: 3000,
   videoReward: 1750,
-  withdrawalsEnabled: true
+  withdrawalsEnabled: true,
+  paymentDestinationMode: "api",
+  externalPaymentUrl: ""
 };
 
 const ALLOWED_ORIGINS = new Set([
@@ -33,7 +35,22 @@ function validAmount(value, min, max) {
   );
 }
 
-function validateSettings(body) {
+function validExternalUrl(value) {
+  if (typeof value !== "string") return false;
+
+  try {
+    const url = new URL(value);
+
+    return (
+      (url.protocol === "https:" || url.protocol === "http:") &&
+      Boolean(url.hostname)
+    );
+  } catch {
+    return false;
+  }
+}
+
+function validateSettings(body, existingSettings) {
   if (!body || typeof body !== "object" || Array.isArray(body)) {
     return null;
   }
@@ -69,6 +86,48 @@ function validateSettings(body) {
 
     settings.withdrawalsEnabled = body.withdrawalsEnabled;
   }
+
+  const paymentDestinationMode =
+    Object.prototype.hasOwnProperty.call(body, "paymentDestinationMode")
+      ? body.paymentDestinationMode
+      : existingSettings.paymentDestinationMode;
+
+  const externalPaymentUrl =
+    Object.prototype.hasOwnProperty.call(body, "externalPaymentUrl")
+      ? (
+          typeof body.externalPaymentUrl === "string"
+            ? body.externalPaymentUrl.trim()
+            : null
+        )
+      : existingSettings.externalPaymentUrl;
+
+  if (
+    paymentDestinationMode !== "api" &&
+    paymentDestinationMode !== "external"
+  ) {
+    return null;
+  }
+
+  if (externalPaymentUrl === null) {
+    return null;
+  }
+
+  if (
+    externalPaymentUrl !== "" &&
+    !validExternalUrl(externalPaymentUrl)
+  ) {
+    return null;
+  }
+
+  if (
+    paymentDestinationMode === "external" &&
+    externalPaymentUrl === ""
+  ) {
+    return null;
+  }
+
+  settings.paymentDestinationMode = paymentDestinationMode;
+  settings.externalPaymentUrl = externalPaymentUrl;
 
   return settings;
 }
@@ -129,7 +188,20 @@ module.exports = async function handler(req, res) {
       });
     }
 
-    const settings = validateSettings(req.body);
+    const stored = await readJSON(
+      SETTINGS_FILE,
+      DEFAULT_SETTINGS
+    );
+
+    const existingSettings = {
+      ...DEFAULT_SETTINGS,
+      ...(stored.data || {})
+    };
+
+    const settings = validateSettings(
+      req.body,
+      existingSettings
+    );
 
     if (!settings) {
       return send(res, 400, {
@@ -138,14 +210,8 @@ module.exports = async function handler(req, res) {
       });
     }
 
-    const stored = await readJSON(
-      SETTINGS_FILE,
-      DEFAULT_SETTINGS
-    );
-
     const updatedSettings = {
-      ...DEFAULT_SETTINGS,
-      ...(stored.data || {}),
+      ...existingSettings,
       ...settings,
       updatedAt: new Date().toISOString()
     };
