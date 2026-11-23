@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-76f4b45816ea2da3200f02e3",
+      "fullName": "Aminu Alfa",
+      "username": "aminu",
+      "email": "aminualfa1234@gmail.com",
+      "phone": "09075677523",
+      "passwordHash": "faea79d8a8c78d8d3ee7485b09a88d14:7266cc7970e0498f9206b8c8f233983927e23ee018c93b441ff9beffbeffac9497603f6ed8170c1954d6e82c506618b8c56424eadeb462642cc1588f364cf08f",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-da4e5d26a47774767657581e",
+      "createdAt": "2026-11-23T21:53:10.713Z",
+      "activatedAt": "2026-11-23T21:53:10.713Z"
+    },
+    {
       "id": "USER-149953b8b31cd5a60c34f323",
       "fullName": "Ojadi Ogechi Arete",
       "username": "tochukwu",
