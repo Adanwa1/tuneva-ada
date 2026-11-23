@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-ba03ac90a6e6c9f8c94081b6",
+      "fullName": "Joy l",
+      "username": "joy",
+      "email": "samuelhappy896@gmail.com",
+      "phone": "08111462034",
+      "passwordHash": "b4c249edb24c2d4483dd9d48dd2cefee:8a85f6fb971f178310c51baa616d8b6cb3a33efb771e3f81e05195c43c58de370c1d609a5fb23e60a19d07fb59f2f0610c41662134d4bfeee84112a4f64f2acb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-7a7be609f3bc1a75c5c983d3",
+      "createdAt": "2026-11-23T10:21:55.929Z",
+      "activatedAt": "2026-11-23T10:21:55.929Z"
+    },
+    {
       "id": "USER-f7d44e7c3626eae910cad98b",
       "fullName": "Kakwk wowjwkw",
       "username": "kajajansbs",
