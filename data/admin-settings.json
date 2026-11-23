@@ -7,6 +7,6 @@
   "tapReward": 100,
   "dailyTapLimit": 3000,
   "videoReward": 1750,
-  "withdrawalsEnabled": true,
-  "updatedAt": "2026-11-23T09:38:00.954Z"
+  "withdrawalsEnabled": false,
+  "updatedAt": "2026-11-23T09:38:31.292Z"
 }
