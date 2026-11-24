@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-838c3c61c485a8fa8d65d011",
+      "fullName": "Ajirotutu Abayomi Lydia",
+      "username": "abayomi014",
+      "email": "ajirotutufiyinfoluwa@gmail.com",
+      "phone": "08103834883",
+      "passwordHash": "c84c439a6072d20764722e1349f1bd2f:ea9d6ee0f2183139532e5165cba59519b808bae11f01d48148e135de08e31ba08c4ba89f78dfb97bb5a2874b7dda4d257cb6358c1fb428d56bc55832417394ba",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-abb1e98beed051fc18d92324",
+      "createdAt": "2026-11-24T11:04:59.822Z",
+      "activatedAt": "2026-11-24T11:04:59.822Z"
+    },
+    {
       "id": "USER-dba97e2102e76b45bb1b59c3",
       "fullName": "Eseigbe Gabriel",
       "username": "eseigbe",
