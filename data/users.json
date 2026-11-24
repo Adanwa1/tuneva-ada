@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-ac8b2deec28c029b206fcda5",
+      "fullName": "Dorcas Peya",
+      "username": "prettypeya",
+      "email": "peyadorcas21@gmail.com",
+      "phone": "08165968699",
+      "passwordHash": "7411da92a82efb9e987cf28c9541defc:c9268ad96c16866fadee00dd6dd08e5ad200eccc833575b7e644b3e8f6a1792f97fbb79ec8485f6827599b216d9d363f186a8ea6ea6a1bea53ee3b7708c4a68a",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-30f068703a2817811bea2c96",
+      "createdAt": "2026-11-24T17:45:51.342Z",
+      "activatedAt": "2026-11-24T17:45:51.342Z"
+    },
+    {
       "id": "USER-7f53745bb4e918ead749b488",
       "fullName": "Chinenye Perpetual",
       "username": "princess",
