@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-abfa3b74ab0ada6398ece46c",
+      "fullName": "Alex Favour",
+      "username": "sunflower00",
+      "email": "favouregharevba379@gmail.com",
+      "phone": "08074388407",
+      "passwordHash": "c84c04be009c773b936f851e78944ea8:aac9d9919a048b9c405ad085af433e726108587eb9adbec547533efd4269a308ffb9c8f827ec9294fead44f115c7af32fa96947db23d441d2386f9fb7540ed40",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f76f4d02597e9db3d575c290",
+      "createdAt": "2026-11-24T15:52:38.453Z",
+      "activatedAt": "2026-11-24T15:52:38.453Z"
+    },
+    {
       "id": "USER-17628e1d803a6cfbc05142ee",
       "fullName": "Chisom Orluigwe",
       "username": "clemzy704",
