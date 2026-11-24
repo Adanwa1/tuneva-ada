@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-6a79edcc20d48c40f2428a00",
+      "fullName": "George oluwatoyin",
+      "username": "oluwatoyin",
+      "email": "georgetoyin404@gmail.com",
+      "phone": "08034451360",
+      "passwordHash": "155bd31163540f8b8b07843d91685a2c:6c3eaffdc81d5c5e4a36265bd5128f0203bf8a719774fedc58d636d98da3023f3861e56b3658483f81569aed0c99665d6391e5b9eb8c664561e5a89301c61bcb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4527f27c537bd80a235a3970",
+      "createdAt": "2026-11-24T20:51:09.570Z",
+      "activatedAt": "2026-11-24T20:51:09.570Z"
+    },
+    {
       "id": "USER-5962f7a71d55b1c91464f030",
       "fullName": "Chinedu Paul",
       "username": "akiaba",
