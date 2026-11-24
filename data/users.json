@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-5bde20e80e516e1e55082c11",
+      "fullName": "Chidimma okereke",
+      "username": "chibaby",
+      "email": "ezehhannahjoy@gmail.com",
+      "phone": "08085410090",
+      "passwordHash": "67b0582d1ddaa0a681d157a62c02ef83:c055c4fb2be2a9002039899ec0168ab8839a778ba03883a5bf8bf1a372dbcd795ced735a6799baf97e762d105ab8ee35bad876eb6474939b1797e9bac11bc3fb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-46d990bcb7d2ced808900158",
+      "createdAt": "2026-11-24T12:24:39.695Z",
+      "activatedAt": "2026-11-24T12:24:39.695Z"
+    },
+    {
       "id": "USER-40a9956074de460076c7220d",
       "fullName": "Sarah Davis",
       "username": "sarah1",
