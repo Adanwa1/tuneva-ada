@@ -10993,23 +10993,213 @@
       "lastTapAt": 0
     },
     "USER-e6657eacabb964f4b184b366": {
-      "balance": 3500,
+      "balance": 7250,
       "todayDate": "2026-11-24",
-      "todayEarnings": 3500,
-      "tapPoints": 0,
-      "tapCount": 0,
-      "tapDailyPoints": 0,
-      "tapDailyEarnings": 0,
-      "videoEarnings": 3500,
+      "todayEarnings": 7250,
+      "tapPoints": 7000,
+      "tapCount": 20,
+      "tapDailyPoints": 7000,
+      "tapDailyEarnings": 2000,
+      "videoEarnings": 5250,
       "claimedVideos": [
         "seyi-vibes",
-        "bigger-escapes"
+        "bigger-escapes",
+        "bigger-fun"
       ],
       "processedEvents": [
         "847696b9-07d7-437a-a741-967fdcef431b",
-        "c68cb846-4b8e-4cad-bd10-137d1d0828c7"
+        "c68cb846-4b8e-4cad-bd10-137d1d0828c7",
+        "c0f08624-3792-4267-a0ee-a808dfd58f3d",
+        "1f5b7d58-ecc2-4200-beb2-82e83e35af81",
+        "b3d62664-f2fc-4356-9c06-25f56fed0127",
+        "d8314daf-9bee-48d1-b0c3-6ffe7cab0214",
+        "cbf95cb7-de9b-4dac-9da6-69c78bf36f3a",
+        "fb40aa90-fcc0-483a-8463-5a17d50b5095",
+        "869986fc-eabb-48b0-86be-8d9a4e7f2755",
+        "97a5a4d7-eb3d-4b54-b8c3-cadac52e2a7d",
+        "82dbff90-7295-4f1d-8f63-1fdff30c93d4",
+        "140780c6-3f96-488c-8def-f947277c7a8a",
+        "90c84427-159e-4787-9604-f2735c87b59c",
+        "3e0dc6ac-e895-4a82-852b-456ef7575d4e",
+        "2f004779-ff37-444c-8acb-ea5fe628070a",
+        "a93bc644-e205-4eef-95b0-9965b8486407",
+        "e17f8f8b-837d-446c-8967-db7a48775729",
+        "c5b9af9c-b8eb-43b9-ac06-8c8c558a802c",
+        "87eb7b85-c23c-4c16-902c-0af2c712a6c8",
+        "f94b88fd-94ca-4a68-a341-2a2ebb9e4731",
+        "b2754995-030e-4ea9-8fc6-4bbbaafc480c",
+        "437e7dd6-9696-4207-a479-8fa659621298",
+        "c08d0d15-1380-412c-92a3-0d981c3afe6f"
       ],
       "history": [
+        {
+          "id": "c08d0d15-1380-412c-92a3-0d981c3afe6f",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.073Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "437e7dd6-9696-4207-a479-8fa659621298",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.073Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "b2754995-030e-4ea9-8fc6-4bbbaafc480c",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.073Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "f94b88fd-94ca-4a68-a341-2a2ebb9e4731",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.073Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "87eb7b85-c23c-4c16-902c-0af2c712a6c8",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.073Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "c5b9af9c-b8eb-43b9-ac06-8c8c558a802c",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "e17f8f8b-837d-446c-8967-db7a48775729",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "a93bc644-e205-4eef-95b0-9965b8486407",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "2f004779-ff37-444c-8acb-ea5fe628070a",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "3e0dc6ac-e895-4a82-852b-456ef7575d4e",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "90c84427-159e-4787-9604-f2735c87b59c",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "140780c6-3f96-488c-8def-f947277c7a8a",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "82dbff90-7295-4f1d-8f63-1fdff30c93d4",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "97a5a4d7-eb3d-4b54-b8c3-cadac52e2a7d",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "869986fc-eabb-48b0-86be-8d9a4e7f2755",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "fb40aa90-fcc0-483a-8463-5a17d50b5095",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "cbf95cb7-de9b-4dac-9da6-69c78bf36f3a",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "d8314daf-9bee-48d1-b0c3-6ffe7cab0214",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "b3d62664-f2fc-4356-9c06-25f56fed0127",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "1f5b7d58-ecc2-4200-beb2-82e83e35af81",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "c0f08624-3792-4267-a0ee-a808dfd58f3d",
+          "title": "Video Rewards",
+          "subtitle": "For Bigger Fun",
+          "amount": 1750,
+          "date": "2026-11-24T21:48:16.072Z",
+          "currency": "NGN"
+        },
         {
           "id": "c68cb846-4b8e-4cad-bd10-137d1d0828c7",
           "title": "Video Rewards",
