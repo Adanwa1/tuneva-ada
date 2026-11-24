@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-e6657eacabb964f4b184b366",
+      "fullName": "Olawale Oluwatoyin",
+      "username": "rachel",
+      "email": "olawaleoluwatoyin448@gmail.com",
+      "phone": "09011938999",
+      "passwordHash": "30b6440df07a9ad947737048453ffed8:7eb51f13447adc6ff86159d678bd387d4ea0dc17fa77797bad2ccdc3e4120feb3651c187739d8952dd62dc8c73e0d628827520460354a3662b7b3dc64d4ab213",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-2eb4324b14f0c5e1abbfb29e",
+      "createdAt": "2026-11-24T21:42:07.565Z",
+      "activatedAt": "2026-11-24T21:42:07.565Z"
+    },
+    {
       "id": "USER-6a79edcc20d48c40f2428a00",
       "fullName": "George oluwatoyin",
       "username": "oluwatoyin",
