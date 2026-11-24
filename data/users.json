@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-cf92d404e4eb649a58707a12",
+      "fullName": "Awajiimam Timothy",
+      "username": "love",
+      "email": "awajiimam567@gmail.com",
+      "phone": "08032617488",
+      "passwordHash": "0b47891b40e1b136b43df5d37615c051:b24f4faa8362294641cedf713aa1b69e554a2160df78c50c16e865b19f153b2c4e3a1d1ded04f487b2e967065da555c3f360f27b3cc6115d1ec69df4f163e488",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-41363dd6994ace3a982d4912",
+      "createdAt": "2026-11-24T16:16:56.801Z",
+      "activatedAt": "2026-11-24T16:16:56.801Z"
+    },
+    {
       "id": "USER-abfa3b74ab0ada6398ece46c",
       "fullName": "Alex Favour",
       "username": "sunflower00",
