@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-c5f7a2082aa96ed0afbddfb6",
+      "fullName": "Ngozi Emmanuel",
+      "username": "blessingtuneva",
+      "email": "b13557042@gmail.com",
+      "phone": "09069009091",
+      "passwordHash": "5a469a7583b0daa4d311d40cf5b96a09:fc99e49180cc3d9bc6b50b554e77119e895967eef96ac09b12bf01390cf9080c96298a3491efb190fd47db6dc4903ac8df78d69620e2ad6f95c2781045d2be75",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f90a9a0acb9935f139df4740",
+      "createdAt": "2026-11-24T18:14:58.636Z",
+      "activatedAt": "2026-11-24T18:14:58.636Z"
+    },
+    {
       "id": "USER-19fa36e28178faed18c469d1",
       "fullName": "Jatto Precious",
       "username": "precious",
