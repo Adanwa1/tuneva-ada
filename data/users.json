@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-bd5b556af0a23087357db125",
+      "fullName": "Danladi Susan",
+      "username": "susan",
+      "email": "susandanladi07@gmail.com",
+      "phone": "09116317003",
+      "passwordHash": "3d9e2ea4b6ab14e968be2a47bef7e8b1:8c25860f5da664a9442d786dd8ab3ee2a7d0e82f5d799440b5d4187618d2dfccb3506f01ce5da63d722169d3330967efaca6018bb0792b856688f5f4b93ea986",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-8becd45e8f3daeddbd018206",
+      "createdAt": "2026-11-24T11:48:19.859Z",
+      "activatedAt": "2026-11-24T11:48:19.859Z"
+    },
+    {
       "id": "USER-19afe64344285885fa0f7137",
       "fullName": "Chidinma joy",
       "username": "joychidinma",
