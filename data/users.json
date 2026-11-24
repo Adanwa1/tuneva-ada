@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-8094c7bb4f4dad5cea8276d5",
+      "fullName": "Isaac Scofield",
+      "username": "mimzy2008",
+      "email": "iscofield047@gmail.com",
+      "phone": "08117269484",
+      "passwordHash": "d55143543164cdb07282b30c9755ae7e:41fe0759b6fd90d7f949fe0f347330be1b9b1c372f5d1d89f8453e8ebf8db27b48a9db4826f7f035b1ea36ecaf1989847f0ab0fe2558cfbe359497bf17477e6e",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-0f3b8e321bd8b00b46e26306",
+      "createdAt": "2026-11-24T19:57:14.351Z",
+      "activatedAt": "2026-11-24T19:57:14.351Z"
+    },
+    {
       "id": "USER-8144f33f412ad6ee398b06c8",
       "fullName": "Emmanuel  Okoye",
       "username": "emmy1234",
