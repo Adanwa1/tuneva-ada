@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-17628e1d803a6cfbc05142ee",
+      "fullName": "Chisom Orluigwe",
+      "username": "clemzy704",
+      "email": "chisomorluigwe9@gmail.com",
+      "phone": "08103259538",
+      "passwordHash": "0aaa1946d33340a4be6c3e06806907e8:917f2d51543a98195ab1b94d9987866333c62b7909ab158aafcc6575e7ac89eb9862759bf9a7ce4d89860d3d92a7afa66f2e72933f163b9099f95be6459b260e",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-e30589b1038645d6d419b02c",
+      "createdAt": "2026-11-24T15:50:33.762Z",
+      "activatedAt": "2026-11-24T15:50:33.762Z"
+    },
+    {
       "id": "USER-204234d8b18246b17312a2ec",
       "fullName": "Oluwamodupe Goodness  Talabi",
       "username": "dupsy",
