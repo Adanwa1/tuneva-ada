@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-aa5246d164a960ed96b2f8c9",
+      "fullName": "Chidera Blessing",
+      "username": "calista54",
+      "email": "cb8672046@gmail.com",
+      "phone": "08085541636",
+      "passwordHash": "c3564e43aba84c7c2dc99045dcbd0862:ed69789a7cc017e33dd2100b6021d748fd77ccd52e01dbd8cfb28dde3917f25eed39522d558ec31640bf2a0fcb4fbd138216480b326014225ef6fb07fa43916c",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a869413677845087f60f3b6c",
+      "createdAt": "2026-11-24T19:07:56.869Z",
+      "activatedAt": "2026-11-24T19:07:56.869Z"
+    },
+    {
       "id": "USER-bcdcf1ebe5ea6f2a5da181d3",
       "fullName": "Adegunle Grace",
       "username": "adegunle",
