@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-204234d8b18246b17312a2ec",
+      "fullName": "Oluwamodupe Goodness  Talabi",
+      "username": "dupsy",
+      "email": "alexanderdupe953@gmail.com",
+      "phone": "07040518593",
+      "passwordHash": "104c4d7fc4404b2760437bba2aa76da3:727b061567a597541632a58ab596747aae37c66b9800e332b1faf3b3d9026e0492bb19ef60a83f4b6043022771361602a9ae6d9c750b3b2c8844a16f3169c4f7",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-88f1d615eb7978ffc673eaad",
+      "createdAt": "2026-11-24T13:30:37.739Z",
+      "activatedAt": "2026-11-24T13:30:37.739Z"
+    },
+    {
       "id": "USER-830b876eee5c2f774e7ebe9b",
       "fullName": "Victoria Ndubuisi",
       "username": "vicky1",
