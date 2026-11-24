@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-dba97e2102e76b45bb1b59c3",
+      "fullName": "Eseigbe Gabriel",
+      "username": "eseigbe",
+      "email": "eseigbegabriel09@gmail.com",
+      "phone": "09138872648",
+      "passwordHash": "668c7de0bb3df44c179c0ab20e7dab69:ea96bf77f654d02f281ae3741a8013339cda398b54a7c363a33dfc2224b99f208b6b30049710ecabba10235896c94a0607c1b81d4594d38bf97cf637f439c525",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-b9ae43bd212d72166c0d29b2",
+      "createdAt": "2026-11-24T09:16:26.836Z",
+      "activatedAt": "2026-11-24T09:16:26.836Z"
+    },
+    {
       "id": "USER-76f4b45816ea2da3200f02e3",
       "fullName": "Aminu Alfa",
       "username": "aminu",
