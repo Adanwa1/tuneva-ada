@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-b45bf9025f92878ae4433d1e",
+      "fullName": "Chukuyenum Eboh",
+      "username": "chuksfunds1",
+      "email": "chukuyenumeboh@gmail.com",
+      "phone": "08132735297",
+      "passwordHash": "d7f0487012759766b298baa507425ac5:3b2baadc1dd375c0966b9808b7558b9d72f21d66b620a7e94f27319e9fa11c20d69d65904cb0aa6649be97b29f68a7b8e4f399640d42c821c1c402f09db4a387",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-b2d79134140de9698f167d5b",
+      "createdAt": "2026-11-24T19:08:02.160Z",
+      "activatedAt": "2026-11-24T19:08:02.160Z"
+    },
+    {
       "id": "USER-aa5246d164a960ed96b2f8c9",
       "fullName": "Chidera Blessing",
       "username": "calista54",
