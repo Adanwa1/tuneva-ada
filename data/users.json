@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-bcdcf1ebe5ea6f2a5da181d3",
+      "fullName": "Adegunle Grace",
+      "username": "adegunle",
+      "email": "adegunlegrace018@gmail.com",
+      "phone": "08135376148",
+      "passwordHash": "0bb7f8fccf4a0954b60afafec808a81e:ef4d75ba826f47ed0ba8112ac9b9b4b4376cf5a278e49df3caf0d1ba2e1e7a19cd9ad3cba629a38118f79b670ec1a80adc11b614f7b7eb1d5f212fa63ab087e8",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-acea1ebe72b9bc05810f2af5",
+      "createdAt": "2026-11-24T18:53:35.104Z",
+      "activatedAt": "2026-11-24T18:53:35.104Z"
+    },
+    {
       "id": "USER-99901dafd001c801bb1d3555",
       "fullName": "Talabi seyi",
       "username": "seyi",
