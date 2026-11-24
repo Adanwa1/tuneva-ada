@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-19afe64344285885fa0f7137",
+      "fullName": "Chidinma joy",
+      "username": "joychidinma",
+      "email": "favourdesty22@gmail.com",
+      "phone": "08167919306",
+      "passwordHash": "d07826563da47568f143b96c57aa2a7d:fd87c0a4624dc0565c03da565041c503ef0bac9d00932832b877c185d855144b0d39dc6d0e84f324ec745ff59209e5555de5c0c7d22e895f21a37caec96a5d56",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-556754e5aa1acb562a66a474",
+      "createdAt": "2026-11-24T11:19:10.976Z",
+      "activatedAt": "2026-11-24T11:19:10.976Z"
+    },
+    {
       "id": "USER-838c3c61c485a8fa8d65d011",
       "fullName": "Ajirotutu Abayomi Lydia",
       "username": "abayomi014",
