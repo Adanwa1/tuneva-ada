@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-40a9956074de460076c7220d",
+      "fullName": "Sarah Davis",
+      "username": "sarah1",
+      "email": "sarhah@gmail.com",
+      "phone": "09159050757",
+      "passwordHash": "3c4e1cb3a9047e98e965c2b93785bad1:4bf8c6c9e664e333e52d989b4410d9bf5fbcd7f5ade0d09ec38d15b6fb4e0ccc7c8a50b21071c3d453e9c95a49f6e1ba909aacec0672792399cb7d0bc01b56c2",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4ccc2c67778efbe02656cbff",
+      "createdAt": "2026-11-24T11:58:30.180Z",
+      "activatedAt": "2026-11-24T11:58:30.180Z"
+    },
+    {
       "id": "USER-bd5b556af0a23087357db125",
       "fullName": "Danladi Susan",
       "username": "susan",
