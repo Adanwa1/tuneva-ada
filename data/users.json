@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-5962f7a71d55b1c91464f030",
+      "fullName": "Chinedu Paul",
+      "username": "akiaba",
+      "email": "chisompaul370@gmail.com",
+      "phone": "08030639323",
+      "passwordHash": "ebbba8adf1fc820d36f92903dc1473ad:cc7f76495e1182ce40babb491436fd77c507fb06214a5a3efdd1bac05c9cfa2c5b91fd3732d2228dd25f34b94b1769cb41080178c08e4c60689a6debff6243ac",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-d2d90d83e7682cf4ac6681c7",
+      "createdAt": "2026-11-24T20:41:30.095Z",
+      "activatedAt": "2026-11-24T20:41:30.095Z"
+    },
+    {
       "id": "USER-8094c7bb4f4dad5cea8276d5",
       "fullName": "Isaac Scofield",
       "username": "mimzy2008",
