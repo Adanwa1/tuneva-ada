@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-46422ca0e503912acc51d09a",
+      "fullName": "Christian chigozie",
+      "username": "ladiesinvestor",
+      "email": "christianikechukwu08166943315@gmail.com",
+      "phone": "08166943315",
+      "passwordHash": "1bc388d6fa6095e3d872323eff4e2cfd:8bfb23bb0a07d94954502ae2457620b91aece8c6cbb078a0f7a4739866b2c2c9ceef8dff77cff3a1e2c3a39980804ac187b2f771a71a017fdc849ed8f4b42755",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-19f235f968823fecbba230ea",
+      "createdAt": "2026-11-25T17:47:52.771Z",
+      "activatedAt": "2026-11-25T17:47:52.771Z"
+    },
+    {
       "id": "USER-82fea8285f53384f0244704d",
       "fullName": "Peace Ben",
       "username": "peace24",
