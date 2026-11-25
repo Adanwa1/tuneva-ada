@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-82fea8285f53384f0244704d",
+      "fullName": "Peace Ben",
+      "username": "peace24",
+      "email": "omrnglory@gmail.com",
+      "phone": "08071860517",
+      "passwordHash": "849457d75c3c80e272690d3877c40246:9591903b331032b0d03f0d05bd8108ff8e8decc908ed2b896ed233c178ca131d2190ce571c9423992c7f2f0cef3af3edb41d4bef033d759f3a97948c64797196",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-bf5f7211c252b11a0a226e16",
+      "createdAt": "2026-11-25T12:41:08.814Z",
+      "activatedAt": "2026-11-25T12:41:08.814Z"
+    },
+    {
       "id": "USER-f5060b88f2fbf2edad6e2ef1",
       "fullName": "Nguemo juliet",
       "username": "tega",
