@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-d29265354240b871f66a6c76",
+      "fullName": "Bridget bestman beta",
+      "username": "bestie",
+      "email": "bestmanbridget@gmail.com",
+      "phone": "07076366605",
+      "passwordHash": "1f92c3b482aa3a89aa51d8ac6a2775f4:77a60bf03cd1445e34dc2915c7934118d8303516ce6493683bf9b3a18ea83ca4eebcf33762c35fd4517056e78c9846ee9c39a13de864e72b93ffc938aa14630b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-34a5061cc286c5f415171024",
+      "createdAt": "2026-11-25T19:12:34.816Z",
+      "activatedAt": "2026-11-25T19:12:34.816Z"
+    },
+    {
       "id": "USER-46422ca0e503912acc51d09a",
       "fullName": "Christian chigozie",
       "username": "ladiesinvestor",
