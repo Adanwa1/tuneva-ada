@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-f5060b88f2fbf2edad6e2ef1",
+      "fullName": "Nguemo juliet",
+      "username": "tega",
+      "email": "agathakor36@gmail.com",
+      "phone": "09021260464",
+      "passwordHash": "b6d40e80ff6ba7e1a57ec7a0444dc137:a9c5b38b02c0f1b69ce9df9650b38a5cff75764062e2582838aaf3885fbf619b5dd4713cff3a2e73c9038e686164e23231d2ab1c56b5a1ee612d57be7cbf373f",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-5d8ec9dfce0475fee98db8ac",
+      "createdAt": "2026-11-25T11:42:09.208Z",
+      "activatedAt": "2026-11-25T11:42:09.208Z"
+    },
+    {
       "id": "USER-e6657eacabb964f4b184b366",
       "fullName": "Olawale Oluwatoyin",
       "username": "rachel",
