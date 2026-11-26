@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-7e2ca759d106a5ff4b8b4f8d",
+      "fullName": "Aminu Alfa",
+      "username": "alfa",
+      "email": "aminualfa55@gmail.com",
+      "phone": "09033122876",
+      "passwordHash": "c6b5aa391650f839a2fd71ad5000f79a:6f16ec6a385724a43fa8a61fcbe695a47565d64e232425f1574e5548e27cba9b8a5b915c2f5a754d5b36820b4cacd2b01294e4eaf35cd9aa85533e534a336741",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-63c4a375c875fd5af48e085f",
+      "createdAt": "2026-11-26T22:47:48.700Z",
+      "activatedAt": "2026-11-26T22:47:48.700Z"
+    },
+    {
       "id": "USER-2d95182f59f0308f1f7b4409",
       "fullName": "Emma Emma",
       "username": "cipherfx",
