@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-2d95182f59f0308f1f7b4409",
+      "fullName": "Emma Emma",
+      "username": "cipherfx",
+      "email": "cipherfx2009@gmail.com",
+      "phone": "09036379719",
+      "passwordHash": "7395636cd4354390c2584ab47403b70a:9b03b24462e50063d746e9beabdff01fba07435000cfe938924804f0dea845976e91c6bb200fb136a01eeb7f0bc86e57560faeae9d516371bc8bf165af4335f4",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-06a2e5f1e71a8f5fb41dcb54",
+      "createdAt": "2026-11-26T21:53:05.420Z",
+      "activatedAt": "2026-11-26T21:53:05.420Z"
+    },
+    {
       "id": "USER-81e931884a92911b60188d3d",
       "fullName": "Ahmed Salisu",
       "username": "abdulateef",
