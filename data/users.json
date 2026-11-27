@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-212098f4321cfa514851f123",
+      "fullName": "Osademe Faith",
+      "username": "ifeanyi",
+      "email": "osademefaith14@gmail.com",
+      "phone": "09131417540",
+      "passwordHash": "a06391b58015d729af456477540215c4:89c0f9770e7de03e212e7cfe969e80fae32c3681c60227f6492b69c8955c279ebdee2c7d5d147666066cc4ea9f5565e5a17ff23df5fc28799fd84c32f0751b7b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-7af411b754ca461e0b9faacf",
+      "createdAt": "2026-11-27T17:50:54.023Z",
+      "activatedAt": "2026-11-27T17:50:54.023Z"
+    },
+    {
       "id": "USER-68b84abb22210e5d446713f2",
       "fullName": "Safiya adamu aliyu",
       "username": "feeyaat",
